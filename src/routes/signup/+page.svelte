@@ -79,7 +79,7 @@
                             <div class="mb-3"><input class="form-control" type="password" name="password" placeholder="Password" required></div>
                             <div class="mb-3"><input class="form-control" type="password" name="pass" placeholder="Confirm Password" required></div>
                             <div class="mb-3"><button class="btn btn-primary d-block w-100" type="submit">Sign Up</button></div>
-                            <p class="text-muted">Create a new account</p>
+                            <p class="text-muted"><a href="/login">Login here</a></p>
                         </form>
                     </div>
                 </div>
